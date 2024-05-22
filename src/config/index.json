@@ -1,11 +1,11 @@
 {
   "company": {
-    "name": "React landing page 2021",
-    "logo": "/assets/images/logo.png"
+    "name": "Rizz Technologies",
+    "logo": "/assets/images/newlogo.png"
   },
   "navigation": [
     {
-      "name": "Product",
+      "name": "Projects",
       "href": "product"
     },
     {
@@ -22,29 +22,26 @@
       "href": "about"
     }
   ],
-  "callToAction": {
-    "text": "Get started",
-    "href": "#"
-  },
+
   "mainHero": {
-    "title": "Use me as your",
-    "subtitle": "landing page.",
-    "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
-    "img": "/assets/images/happyTeam.jpeg",
+    "title": "Welcome to",
+    "subtitle": "Rizz Technologies.",
+    "description": "At Rizz Technologies, we are dedicated to transforming ideas into innovative web applications that drive business success. Our expert team of developers, designers, and strategists collaborates to deliver cutting-edge solutions tailored to your unique needs. ",
+    "img": "/assets/images/logo.JPG",
     "primaryAction": {
       "text": "Get started",
       "href": "#"
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:issaafakattan@gmail.com?subject=I like react landing page!"
+      "href": "mailto:nayelr6@gmail.com?subject=Greetings! I need support with my web development needs."
     }
   },
   "product": {
-    "title": "React landing page 2021",
+    "title": "Our previous projects",
     "items": [
       {
-        "title": "A plug n play template",
+        "title": "eLearn",
         "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
         "img": "/assets/images/product1.jpg"
       },
@@ -60,6 +57,17 @@
     "subtitle": "All the best technologies out there!",
     "description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.",
     "items": [
+      {
+        "name": "Flask",
+        "description": "Flask is a lightweight Python web framework for building simple to complex applications.",
+        "icon": "/assets/images/flaskicon.png"
+      },
+      {
+        "name": "Django",
+        "description": "Django is a high-level Python web framework that encourages rapid development and clean, pragmatic design.",
+        "icon": "/assets/images/django.png"
+      },
+
       {
         "name": "React.js",
         "description": "React is a free and open-source front-end JavaScript library for building user interfaces or UI components.",
@@ -86,37 +94,36 @@
     "title": "Pricing",
     "items": [
       {
-        "name": "Free",
-        "price": "$0",
-        "priceDetails": "for one user",
+        "name": "Basic",
+        "price": "Contact us!",
         "features": [
-          "1 user",
-          "Basic Support",
-          "1 GB of storage",
-          "Email support"
+          "Customizable templates",
+          "Up to 5 pages",
+          "Responsive design",
+          "Email support",
+          "Ideal for: Small businesses or individuals who need a simple web presence."
         ]
       },
       {
-        "name": "Pro",
-        "price": "$15",
-        "priceDetails": "per user",
-
+        "name": "Standard",
+        "price": "Contact us!",
         "features": [
-          "5 users",
-          "Priority Support",
-          "10 GB of storage",
-          "Phone and Email support"
+          "Everything in the basic package",
+          "Up to 10 pages",
+          "Priority suuport",
+          "Phone and Email support",
+          "Ideal for: Growing businesses looking for more functionality and a stronger online presence."
         ]
       },
       {
-        "name": "Enterprise",
-        "price": "$29",
-        "priceDetails": "per user",
+        "name": "Premium",
+        "price": "Contact us!",
         "features": [
-          "50 users",
-          "24/7 Support",
-          "100 GB of storage",
-          "Phone and Email support"
+          "Everything in the standard package",
+          "Unlimted webpages",
+          "Custom web design from scratch",
+          "Phone and Email support",
+          "Ideal for: Large businesses or organizations looking for a fully customized web presence."
         ]
       }
     ]
@@ -125,7 +132,7 @@
     "sections": [
       {
         "name": "Something",
-        "href": "#",
+        "href": "product",
         "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
       },
       {
@@ -145,9 +152,9 @@
       }
     ],
     "socialMedia": {
-      "github": "https://github.com/issaafalkattan",
       "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/"
+      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/",
+      "whatsapp": "https://web.whatsapp.com"
     }
   }
 }

@@ -2,6 +2,10 @@ module.exports = {
   mode: 'jit',
   purge: ['./src/**/*.{js,ts,jsx,tsx}'],
   darkMode: false,
+  daisyUI: {
+    // eslint-disable-next-line prettier/prettier
+    themes: ["black"]
+  },
   theme: {
     fontSize: {
       xs: '0.75rem',
@@ -17,11 +21,14 @@ module.exports = {
     },
     extend: {
       colors: {
+        // primary: '#ec4755',
         primary: '#ec4755',
         secondary: '#a12c34',
+        // tertiary: '#99a0a3',
         tertiary: '#99a0a3',
-        border: '#1a2e35',
-        background: '#ffffff',
+        border: '#ffffff',
+        background: '#000000',
+        pricingtext: '#ffffff',
       },
       animation: {
         vote: 'vote 1s ease-in-out',

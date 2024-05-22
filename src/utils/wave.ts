@@ -25,7 +25,7 @@ class Wave {
       const wave2 = Math.sin(i * (this.waveLength[1] ?? 0) - frequency);
       const wave3 = Math.sin(i * (this.waveLength[2] ?? 0) - frequency);
 
-      context.lineTo(i * 2.5, height - 400 + wave1 * wave2 * wave3 * 200);
+      context.lineTo(i * 5, height - 400 + wave1 * wave2 * wave3 * 200);
     }
     context.lineTo(width, height);
     context.fillStyle = this.color;
