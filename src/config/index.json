@@ -18,7 +18,7 @@
       "href": "pricing"
     },
     {
-      "name": "About",
+      "name": "Follow Us",
       "href": "about"
     }
   ],
@@ -30,11 +30,11 @@
     "img": "/assets/images/logo.JPG",
     "primaryAction": {
       "text": "Get started",
-      "href": "#"
+      "href": "#product"
     },
     "secondaryAction": {
       "text": "Email us",
-      "href": "mailto:nayelr6@gmail.com?subject=Greetings! I need support with my web development needs."
+      "href": "mailto:rizztechnologies@gmail.com?subject=Greetings! I need support with my web development needs."
     }
   },
   "product": {
@@ -42,13 +42,8 @@
     "items": [
       {
         "title": "eLearn",
-        "description": "Just edit the config.json file with details about your company and voila your beautiful state of the art landing page is ready to go live! Remember to also update your assets, add any images you want to show to /assets/images and link them in the config.json",
-        "img": "/assets/images/product1.jpg"
-      },
-      {
-        "title": "Make it your own!",
-        "description": "Play around with the theme.ts file and configure the color palette to match the branding of your company! If you're feeling wild, maybe change some tailwind css as well!",
-        "img": "/assets/images/product2.jpg"
+        "description": "Developed a sophisticated online learning platform utilizing Flask for backend functionality, MySQL for robust database management, and a blend of HTML, CSS, and JavaScript for a seamless frontend experience. Inspired by the functionalities of leading platforms such as Google Classroom, edX, and Brac University's student management portal, this project integrates a comprehensive suite of features, making it a powerful learning tool.",
+        "img": "/assets/images/elearn.png"
       }
     ]
   },
@@ -131,30 +126,14 @@
   "about": {
     "sections": [
       {
-        "name": "Something",
-        "href": "product",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
-      },
-      {
-        "name": "Something",
-        "href": "#",
-        "content": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English."
+        "name": "rizztechnologies@gmail.com",
+        "href": "mailto:rizztechnologies@gmail.com",
+        "content": "null"
       }
     ],
     "socialMedia": {
-      "twitter": "https://twitter.com/issaafkattan",
-      "linkedin": "https://www.linkedin.com/in/issaaf-kattan/",
-      "whatsapp": "https://web.whatsapp.com"
+      "facebook": "https://www.facebook.com/people/Rizz-Technologies/61559817487846/",
+      "linkedin": "https://www.linkedin.com/company/rizz-technologies/"
     }
   }
 }
