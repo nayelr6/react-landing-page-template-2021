@@ -90,7 +90,7 @@
     "items": [
       {
         "name": "Basic",
-        "price": "Contact us!",
+        "price": "$200",
         "features": [
           "Customizable templates",
           "Up to 5 pages",
@@ -101,7 +101,7 @@
       },
       {
         "name": "Standard",
-        "price": "Contact us!",
+        "price": "$500",
         "features": [
           "Everything in the basic package",
           "Up to 10 pages",
@@ -112,7 +112,7 @@
       },
       {
         "name": "Premium",
-        "price": "Contact us!",
+        "price": "$1000",
         "features": [
           "Everything in the standard package",
           "Unlimted webpages",
@@ -127,7 +127,7 @@
     "sections": [
       {
         "name": "rizztechnologies@gmail.com",
-        "href": "mailto:rizztechnologies@gmail.com",
+        "href": "mailto:rizztechnologies@gmail.com?subject=Greetings! I need support with my web development needs.",
         "content": "null"
       }
     ],
