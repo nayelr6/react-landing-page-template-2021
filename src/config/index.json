@@ -70,12 +70,12 @@
       },
       {
         "name": "Tailwind",
-        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs without any annoying opinionated stylesheet nonsense.",
+        "description": "Tailwind CSS is a highly customizable, low-level CSS framework for quickly creating beautiful designs.",
         "icon": "/assets/images/tailwindcss.svg"
       },
       {
         "name": "Next.js",
-        "description": "Next.js is a framework for server-rendered React applications using Next.js.",
+        "description": "Next.js is a framework for server-rendered React applications.",
         "icon": "/assets/images/nextjs.svg"
       },
       {
